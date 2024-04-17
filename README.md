@@ -1,9 +1,7 @@
 # Video Downloader
 
-![Video Downloader](img/videoDownloader.png)
-
 <div align="center">
-  <img src="https://nishchalacharya.com.np/img/hero.png" alt="Developer Image" width="150" height="150">
+  <img src="img/videoDownloader.png" alt="Image" width="150" height="150">
 </div>
 
 Hey there! Welcome to the Video Downloader project repository. This awesome site lets you download videos from any platform. Just paste the link of the video you want to download, select the resolution from the dropdown menu, and voila! You're all set to enjoy your favorite videos offline.
@@ -26,8 +24,8 @@ Got any questions, feedback, or just want to say hi? Feel free to reach out to m
 
 ## Developer Info
 
-| Name           | Email                     | Portfolio                                      | 
-| -------------- | ------------------------- | ---------------------------------------------- | 
-| Nishchal Acharya | nismsg1@gmail.com        | [Nishchal Acharya Portfolio](https://nishchalacharya.com.np) |
+| Name           | Email                     | Portfolio                                      | Image                                               |
+| -------------- | ------------------------- | ---------------------------------------------- | --------------------------------------------------- |
+| Nishchal Acharya | nismsg1@gmail.com        | [Nishchal Acharya Portfolio](https://nishchalacharya.com.np) | ![Nishchal Acharya](https://nishchalacharya.com.np/img/hero.png) |
 
 Let's make the world a better place, one download at a time! 🚀
