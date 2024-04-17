@@ -1,7 +1,7 @@
 # Video Downloader
 
 <div align="center">
-  <img src="img/videoDownloader.png" alt="Image" width="150" height="150">
+  <img src="img/videoDownloader.png" alt="Image" width="1500" height="1200">
 </div>
 
 Hey there! Welcome to the Video Downloader project repository. This awesome site lets you download videos from any platform. Just paste the link of the video you want to download, select the resolution from the dropdown menu, and voila! You're all set to enjoy your favorite videos offline.
@@ -10,7 +10,7 @@ Hey there! Welcome to the Video Downloader project repository. This awesome site
 
 ![Demo](https://placeimg.com/640/480/tech) <!-- Replace with your actual demo image -->
 
-Curious to see how it works? Check out the live demo [here](#). (Don't worry, it's coming soon!)
+See website [here](#). (Don't worry, it's live!)
 
 ## How to Use
 
