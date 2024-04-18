@@ -7,7 +7,7 @@ Hey there! Welcome to the Video Downloader project repository. This awesome site
 ## DEMO
 
 <div align="center">
-  <img src="img/videoDownloader.png" alt="Image" width="300" height="250">
+  <img src="img/videoDownloader.png" alt="Image" width="300" height="200">
 </div>
 
 See website [here](https://nishchalacharya.com.np/projects/videoDownloader/). (Don't worry, it's live!)
@@ -24,8 +24,9 @@ Got any questions, feedback, or just want to say hi? Feel free to reach out to m
 
 ## Developer Info
 
-| Name           | Email                     | Portfolio                                      | Image                                               |
-| -------------- | ------------------------- | ---------------------------------------------- | --------------------------------------------------- |
-| Nishchal Acharya | nismsg1@gmail.com        | [Nishchal Acharya Portfolio](https://nishchalacharya.com.np) | ![Nishchal Acharya](https://nishchalacharya.com.np/img/hero.png) |
+| Developers         | Portfolio                                  | Photo |
+| ----------------- | ------------------------------------------ |-------|
+| Nishchal Acharya  | [https://nishchalacharya.com.np](https://nishchalacharya.com.np)  | <img src="https://nishchalacharya.com.np/img/hero.png" alt="Nishchal Acharya" width="100"/> |
+
 
 Let's make the world a better place, one download at a time! 🚀
