@@ -7,7 +7,7 @@ Hey there! Welcome to the Video Downloader project repository. This awesome site
 ## DEMO
 
 <div align="center">
-  <img src="img/videoDownloader.png" alt="Image" width="500" height="450">
+  <img src="img/videoDownloader.png" alt="Image" width="300" height="250">
 </div>
 
 See website [here](https://nishchalacharya.com.np/projects/videoDownloader/). (Don't worry, it's live!)
